@@ -8,7 +8,7 @@ public class C01_pre_post {
 
         // pre veya posti increment veya decrement
         //sadece ++ ve -- için geçerlidir.
-        //bu 2 işlem sayıdan önce veya sonra yazılmasında farklı 2 işleyiş olur.
+        //bu 2 işlem sayıdan önce veya sonra yazılmasında farklı 2 işleyiş olur..
 
         int sayi3=sayi2++;// 1- sayi2 sayi3 e ata sayi3=16
                            // 2-sayi2 bir artır sayi2=17
