@@ -1,6 +1,6 @@
 package day05_mat;
 
-public class C01_pre_post {
+public class gC01_pre_post {
     public static void main(String[] args) {
 
         int sayi1=11;
