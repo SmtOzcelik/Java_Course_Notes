@@ -3,6 +3,7 @@ package day32_stringBuilder;
 public class C02_Append {
     public static void main(String[] args) {
 
+
         StringBuilder sb=new StringBuilder("Java daha ne yapsin");
         // append sonuna ekleme metodu
         sb.append("?");
