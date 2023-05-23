@@ -9,6 +9,7 @@ public class C02_Append {
         System.out.println(sb);//Java daha ne yapsin?
 
 
+
         //araya eklemek icin insert() metodu kullanilir
         sb.insert(4," artik");
         System.out.println(sb);//Java artik daha ne yapsin?
