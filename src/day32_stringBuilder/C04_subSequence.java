@@ -7,7 +7,7 @@ public class C04_subSequence {
 
         sb.substring(0,3);
         // bu method String dondurdugu icin StringBuilder in eski halini degistiremez.
-        System.out.println(sb);//Kayra
+        System.out.println(sb); // Kayra
 
         sb.subSequence(0,3);
         System.out.println(sb);//Kayra
