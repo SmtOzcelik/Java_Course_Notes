@@ -1,6 +1,6 @@
 package day14_methodCreation;
 
-import day13_MethodCreation.C04_MethodCreation;
+
 
 public class C01_MethodCreation {
     public static void main(String[] args) {
@@ -8,7 +8,7 @@ public class C01_MethodCreation {
         // input olarak verilen 4 harfli bir stringi tersten yazdıran method oluştur
 
         terstenYazdir("Okan");   // aşağı metodu oluşturduk sonra burdan deger verdik.
-        C04_MethodCreation.topla(6,5);// 11 yazdırır bunu başka yerden alabiliyoruz
+
 
     }
 
