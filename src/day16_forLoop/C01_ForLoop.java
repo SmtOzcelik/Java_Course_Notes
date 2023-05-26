@@ -6,7 +6,7 @@ public class C01_ForLoop {
         // verilen bir pozitif tam sayinin tam bölenlerini yazdıralim.
 
         int input=30;
-        for (int i = 1; i <20 ; i++) {
+        for (int i = 1; i <=input ; i++) {
             if(input%i==0){
                 System.out.print(i+ " ");
             }
