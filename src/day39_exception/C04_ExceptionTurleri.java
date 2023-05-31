@@ -20,6 +20,7 @@ public class C04_ExceptionTurleri {
        // Integer sayi =(Integer) obj;   //ClassCastException
 
         /*
+
        String str2="Hava Bozuk";
         Integer sayi=str2;
 
