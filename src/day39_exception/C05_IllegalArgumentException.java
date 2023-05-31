@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class C05_IllegalArgumentException {
     public static void main(String[] args) {
+
         // Soru:Kullacinidan yasini girmesini isteyin.Kodunuzu kullanici
         // sifirdan kucuk bir sayi girerse Exception verecek sekilde yaziniz
 
