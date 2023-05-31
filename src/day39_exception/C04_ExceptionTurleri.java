@@ -29,7 +29,9 @@ public class C04_ExceptionTurleri {
         calismasina itiraz etmez
 
          */
+
         Thread.sleep(5000);//Kod 29. satira geldi mi 5sn bekletir
+
     }
 
 }
