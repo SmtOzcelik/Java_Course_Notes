@@ -10,7 +10,9 @@ public class C04_ExceptionTurleri {
         deger atamasi yapmadan bir variable i kullanmaya calisirsaniz
         Java Compile time da bunu farkeder ve size izin vermez
          */
+
         str=null;
+
         // System.out.println(str.length());
         // NullPointerException
 
