@@ -24,6 +24,7 @@ public class C03_Exceptions {
     Eger Bilmedigim bir exception daha olusursa kodum durmasin istiyorsak bir kere
     daha catch cumlesi ekleyip ona en genis Exception yazabiliriz
      */
+
     }
 
 
