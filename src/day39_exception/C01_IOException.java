@@ -32,5 +32,6 @@ public class C01_IOException {
         Ancak throws exception yazdigimizda java bir exception ile karsilasirsa hic bir sey
         yapmamıs gibi hata mesaji yayinlayip calismayi durdurur.
          */
+
     }
 }
