@@ -2,6 +2,7 @@ package day39_exception;
 
 public class C03_Exceptions {
     public static void main(String[] args) {
+
         String str="123a5";
 
         int sayi= 0;
