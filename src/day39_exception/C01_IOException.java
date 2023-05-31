@@ -5,6 +5,7 @@ import java.io.FileNotFoundException;
 
 public class C01_IOException {
     public static void main(String[] args) throws FileNotFoundException {
+
         /*
         Java da bilgisayarimizdaki bir dosyaya erismek istiyorsak FileInputStream
         Class indan yardim aliriz. Ayni sekilde javadan bilgisisayarimizdaki bir
