@@ -13,6 +13,7 @@ public class C02_IcIceTryCatch {
     // FileInputStream alti kırmızı oldu hata cıkma durumunu onlemek icin try-catch yaptik
             while ((k=fis.read()) !=-1){ //dosya okuma metodu
                 // read alti kirmizi oldu 2.kez try-catch yaptik ic ice oldu
+
                 System.out.print((char) k);
             }
 
