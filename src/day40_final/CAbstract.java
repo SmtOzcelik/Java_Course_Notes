@@ -19,5 +19,6 @@ public abstract class CAbstract { //class basina abstract yazarsak abstract clas
 
     Bir methodun basina abstract yazarsaniz bu methodun child classlar icin
     bir standart oludugunu declare ederiz ve method body sine ihtiyac kalmaz
+
      */
 }
