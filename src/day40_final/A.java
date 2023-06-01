@@ -1,6 +1,7 @@
 package day40_final;
 
 public class A {
+
   protected String isim="Cuneyt";
     static final String OKUL="Yildiz Koleji";//final de variable lar buyuk harfle yazilir
     /*
