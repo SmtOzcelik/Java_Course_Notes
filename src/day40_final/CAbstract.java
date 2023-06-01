@@ -14,6 +14,7 @@ public abstract class CAbstract { //class basina abstract yazarsak abstract clas
 
         System.out.println("bu method cikarma yapar");
     }
+
     /*
     Bir methodun basina abstract yazarsaniz bu methodun child classlar icin
     bir standart oludugunu declare ederiz ve method body sine ihtiyac kalmaz
