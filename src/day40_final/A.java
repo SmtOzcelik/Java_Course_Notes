@@ -4,6 +4,7 @@ public class A {
 
   protected String isim="Cuneyt";
     static final String OKUL="Yildiz Koleji";//final de variable lar buyuk harfle yazilir
+
     /*
       bir variable final olarak tanimlandiysa baska class lardan veya icinde
       oldugumuz class dan bu variable a baska deger atanmasi mumkun degildir.
