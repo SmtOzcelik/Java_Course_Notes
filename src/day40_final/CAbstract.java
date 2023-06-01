@@ -11,6 +11,7 @@ public abstract class CAbstract { //class basina abstract yazarsak abstract clas
     abstract void bolme();
 
     void cikarma(){
+
         System.out.println("bu method cikarma yapar");
     }
     /*
