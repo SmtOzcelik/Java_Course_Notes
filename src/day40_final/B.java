@@ -9,6 +9,7 @@ public class B extends A {
         System.out.println(A.OKUL);
 
         System.out.println(Integer.MIN_VALUE);//final lanmis son degeri degismez
+
         System.out.println(Integer.MAX_VALUE);//final lanmis son degeri degismez
 
 
