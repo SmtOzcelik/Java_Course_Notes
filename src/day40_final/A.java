@@ -16,6 +16,7 @@ public class A {
      */
 
       final void finalMethod(){
+
         System.out.println("final method lar override edilemez");
         /*
         bir methodu final olarak isaretlerseniz bu method degistirilemez demektir.
