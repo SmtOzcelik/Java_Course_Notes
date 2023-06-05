@@ -11,7 +11,7 @@ public abstract class EToyota extends DAraba{
     Parent class daki standart belirleyici methodlar (abstract methodlarn)
     tamamı child class tarafından override edilmelidir.
 
-    concrete methodlarin override edilme mecburuyeti yoktur.
+    Concrete methodlarin override edilme mecburuyeti yoktur.
     istersek override ederiz, istemezsek etmeyiz
 
     Aslinda toyota class i da obje uretecegimiz bir class degil
