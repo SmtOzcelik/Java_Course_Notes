@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HA160 extends FMercedes{
+
     /*
     Abstract parent silsilesinden gelen ilk concrete class parent i olan
     tum class larda ki abstract methodlari concrete hale donusturmak(override etmek)
