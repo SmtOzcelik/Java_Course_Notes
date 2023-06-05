@@ -30,6 +30,7 @@ public class HA160 extends FMercedes{
         /*
 
         List<String>list1 =new List<String>();
+
         List<String>list2=new ArrayList<>();
 
         Abstruct bir class in ozelliklerini tasiyan bir obje olusturmak istedegimizde
