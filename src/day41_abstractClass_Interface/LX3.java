@@ -3,8 +3,8 @@ package day41_abstractClass_Interface;
 public class LX3 extends KBmw{
 
     /*
-    x3 class i abstruct silsilesinden sonra gelen ilk concrete class oldugundan
-    tum abstruct parent larda ki, tum abstruct methodlari override etmek zorunda kaldi.
+     x3 class i abstruct silsilesinden sonra gelen ilk concrete class oldugundan
+     tum abstruct parent larda ki, tum abstruct methodlari override etmek zorunda kaldi.
      */
 
     @Override
