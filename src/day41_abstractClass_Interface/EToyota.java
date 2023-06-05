@@ -6,6 +6,7 @@ public abstract class EToyota extends DAraba{
     public void motor() {
         System.out.println("Toyota arabalar cevreci motor kullanir");
     }
+
     /*
     Parent class daki standart belirleyici methodlar (abstract methodlarn)
     tamamı child class tarafından override edilmelidir.
