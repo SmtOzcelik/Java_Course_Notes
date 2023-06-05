@@ -12,6 +12,7 @@ public class C01_Exceptions {
             private static void calis(){
                 throw new RuntimeException("cokkk calis");
 
+
     /*
     throw ile kontrollu exception olusturulurken parametre olarak
     istegimiz hata mesajini girimebiliriz
