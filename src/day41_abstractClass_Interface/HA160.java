@@ -34,7 +34,7 @@ public class HA160 extends FMercedes{
 
         Abstruct bir class in ozelliklerini tasiyan bir obje olusturmak istedegimizde
         data turunu istedigimiz abstract class construtor ise child i olan
-        concrete bir class dan seceriz
+        concrete bir class dan seceriz.
          */
     }
 }
