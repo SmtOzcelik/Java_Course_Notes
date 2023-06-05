@@ -27,6 +27,7 @@ public abstract class DAraba { // abstract olmasi icin class onune yazdik
     public void klima(){
 
         System.out.println("bazi arabalarda klima olabilir");
+
         /*
         Abstract olmayan methodlara concrete method denir
         Abstract bir methodu abstract keyword ile belirtmek ZORUNLUDUR.
