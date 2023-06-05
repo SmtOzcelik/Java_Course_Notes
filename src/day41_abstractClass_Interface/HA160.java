@@ -22,8 +22,8 @@ public class HA160 extends FMercedes{
         FMercedes arb2=new FMercedes();
         //mercedes de concrete
 
-       // EToyota arb3=new EToyota();
-       // EToyota arb4=new GCoralla();
+        // EToyota arb3=new EToyota();
+        // EToyota arb4=new GCoralla();
         // Abstruct class lar constructor barindirir ama obje uretemezler
         // Toyota class i abstruct class oldugundan obje uretilemez
 
