@@ -16,7 +16,7 @@ public class GCoralla extends EToyota{
     Corolla parent larinin 2 sinin de standartlarina (abstract) uymak zorundadir.
 
     Concrete bir class parent i olan tum abstract class larda abstract olan methodlari
-    implement etmek ZORUNDADİR.
+    implement etmek ZORUNDADIR.
     Ancak parent silsilesinde override edilerek concrete yapilan methodlari
     override etmek zorunda DEGİLDİR
 
