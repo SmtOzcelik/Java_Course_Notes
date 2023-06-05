@@ -4,6 +4,7 @@ public class FMercedes extends DAraba{
 
     @Override
     public void motor() {
+
         /*
         Abstract bir parent in concrete child class inherit ederse parent abstrack
         class daki tum abstract methodlari override etmek zorundadir.
