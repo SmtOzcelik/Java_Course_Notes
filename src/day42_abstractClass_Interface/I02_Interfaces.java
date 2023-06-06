@@ -7,6 +7,7 @@ public interface I02_Interfaces {
 
     int sayi=40;
     String Isim="Yildiz Koleji";
+
     /*
     Interface bir class degildir.
 
