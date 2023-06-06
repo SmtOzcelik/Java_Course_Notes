@@ -3,6 +3,7 @@ package day42_abstractClass_Interface;
 public interface I03_Interfaces  {
 
     int sayi=20;
+
     /*
     int sayi;
     interface lerde tum variable la public static ve final dir.Dolayisiyla
