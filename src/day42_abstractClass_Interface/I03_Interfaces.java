@@ -13,6 +13,7 @@ public interface I03_Interfaces  {
      */
 
     void yakit();
+
     /*
     Interface icerisindeki her method public ve absract ozellikleri sahiptir
 
