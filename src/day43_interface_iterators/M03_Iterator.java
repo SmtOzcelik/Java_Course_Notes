@@ -70,6 +70,7 @@ public class M03_Iterator {
             it3.remove();
         }
         System.out.println("loop dan sonra liste: "+liste);//[]
+
         /*
         Gouruldugu gibi Iterator kullanarak yapabildigim
         1- tum collection elementlerini yazdirmak
