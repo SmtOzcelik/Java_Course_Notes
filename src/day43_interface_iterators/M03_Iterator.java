@@ -23,6 +23,7 @@ public class M03_Iterator {
         }
         System.out.println("");
         System.out.println(liste);//[10, 20, 30] ama liste degismedi
+
         /*
         Java index yapisi olmayan collection lardaki elementlere ulasmak veya
         degistirmek icin Iterator interface ini olusturmustur.
