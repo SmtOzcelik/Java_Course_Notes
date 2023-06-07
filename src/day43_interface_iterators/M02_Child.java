@@ -28,6 +28,7 @@ public class M02_Child implements I01_InterfaceBodyOlanMethod {
         I01_InterfaceBodyOlanMethod.direksiyon();
 
         M02_Child obj=new M02_Child();
+
         obj.teker();
     }
 }
