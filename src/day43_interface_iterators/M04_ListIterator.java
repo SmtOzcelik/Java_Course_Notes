@@ -21,6 +21,7 @@ public class M04_ListIterator {
 
         ListIterator lit1=liste.listIterator();
         Integer temp; // 3 ekmeme yapacagım icin Integer yaptik
+
         while (lit1.hasNext()){
             temp=(Integer) lit1.next()+3;
             lit1.set(temp);
