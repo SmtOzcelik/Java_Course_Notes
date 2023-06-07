@@ -24,6 +24,7 @@ public class M02_Child implements I01_InterfaceBodyOlanMethod {
      */
 
     public static void main(String[] args) {
+
         I01_InterfaceBodyOlanMethod.direksiyon();
 
         M02_Child obj=new M02_Child();
