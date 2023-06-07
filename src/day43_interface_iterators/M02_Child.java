@@ -1,6 +1,7 @@
 package day43_interface_iterators;
 
 public class M02_Child implements I01_InterfaceBodyOlanMethod {
+
     @Override
     public void motor() {
 
