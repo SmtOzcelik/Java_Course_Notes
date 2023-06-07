@@ -11,6 +11,7 @@ public class M04_ListIterator {
         ListIterator Iterator interface inin child interface dir.
         Ama daha cok methoda sahiptir.
          */
+
         List<Integer> liste=new ArrayList<>();
         liste.add(10);
         liste.add(20);
