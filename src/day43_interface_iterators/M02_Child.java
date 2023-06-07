@@ -16,6 +16,7 @@ public class M02_Child implements I01_InterfaceBodyOlanMethod {
     public String aku() {
         return null;
     }
+
     /*
     parent interface abstract olan 3 methodu implement ettigimizde java
     itirazini durdurur. Sonradan ekledigimiz defeult veya static keyword
