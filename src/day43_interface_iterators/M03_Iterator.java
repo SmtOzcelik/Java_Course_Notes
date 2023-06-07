@@ -38,6 +38,7 @@ public class M03_Iterator {
         System.out.println(it1.next());//10
         System.out.println(it1.next());//20
         System.out.println(it1.next());//30
+
         // Iterator da geri donus yok ,adim adim sona ulastiktan sonra basa dönmek icin
         //yeniden bir iterator olusturmaniz gerekir.
 
