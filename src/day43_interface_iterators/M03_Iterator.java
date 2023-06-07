@@ -46,6 +46,7 @@ public class M03_Iterator {
         Iterator it2=liste.iterator();
         // yeni it2 kullanarak listenin tum elementelerin silerim
         // silmek icin önce next ile alacak sonra silecek
+
         it2.next();//doldur
         it2.remove();//sil
         System.out.println(liste);//[20, 30]
