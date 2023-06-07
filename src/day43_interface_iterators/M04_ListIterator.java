@@ -6,6 +6,7 @@ import java.util.ListIterator;
 
 public class M04_ListIterator {
     public static void main(String[] args) {
+
         /*
         ListIterator Iterator interface inin child interface dir.
         Ama daha cok methoda sahiptir.
