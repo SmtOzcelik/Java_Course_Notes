@@ -28,6 +28,7 @@ public class C04_LinkedList_QueueDataTuru {
         Queue<String>ll4=new LinkedList();
         //System.out.println(ll4.element());//throws exception ,NoSuchElementException
         System.out.println(ll4.peek());//null
+
         //peek ve element silmeden ilk elementi bize döndürür.Aralarinda ki fark
         //bos liste olursa peek null doner,element exception firlatir.
 
