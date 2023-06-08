@@ -22,6 +22,7 @@ public class C03_LinkedList_ListDataTuru {
         ll2.add("Ayse");
 
         System.out.println(ll2);//[Berk, Done, Enes, Ayse]
+
         System.out.println(ll2.remove(3));//ayse hem sildi hemde sildigini getirdi
         //eger listemiz Integer elementlerden olusuyorsa direk sayi yazarsak indek olarak kabul eder
         //bir variable a atama yapar ve remove da o variable in ismini yazarsak obje olarak kabul eder
