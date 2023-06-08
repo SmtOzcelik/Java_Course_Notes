@@ -27,6 +27,7 @@ public class C01_ListIterator {
                it1.remove();
            }
        }
+
         System.out.println(list);
     }
 
