@@ -5,6 +5,7 @@ import java.util.Queue;
 
 public class C04_LinkedList_QueueDataTuru {
     public static void main(String[] args) {
+
         Queue<String>ll3=new LinkedList();
         ll3.add("Adem");
         ll3.add("Zeynep");
