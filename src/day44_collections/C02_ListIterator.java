@@ -10,6 +10,7 @@ public class C02_ListIterator {
         // bir listedeki elementleri iterator kullanarak sondan basa dogru sirala
 
         ArrayList<Integer>list=new ArrayList<>(Arrays.asList(2,13,56,23,45,14,40));
+
         // sondan basa gelebilmek icin once sona gitmek lazim
         System.out.println(list);//[2, 13, 56, 23, 45, 14, 40]
 
