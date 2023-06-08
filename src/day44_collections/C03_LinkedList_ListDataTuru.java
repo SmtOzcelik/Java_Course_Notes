@@ -20,6 +20,7 @@ public class C03_LinkedList_ListDataTuru {
         ll2.add("Done");
         ll2.add("Enes");
         ll2.add("Ayse");
+
         System.out.println(ll2);//[Berk, Done, Enes, Ayse]
         System.out.println(ll2.remove(3));//ayse hem sildi hemde sildigini getirdi
         //eger listemiz Integer elementlerden olusuyorsa direk sayi yazarsak indek olarak kabul eder
