@@ -6,6 +6,7 @@ import java.util.Iterator;
 
 public class C01_ListIterator {
     public static void main(String[] args) {
+
         /*
         bir listedeki istenen sayi araliginda olmayan elementleri silen bir program
         yaziniz.
