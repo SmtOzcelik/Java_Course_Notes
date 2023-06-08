@@ -11,6 +11,7 @@ public class C04_LinkedList_QueueDataTuru {
         ll3.add("Zeynep");
         ll3.add("Hpolat");
         ll3.add("Kadir");
+
         //Queue kuyruk demektir, sira onemlidir.
         //gelen sona gelir, giden bastan gider
 
