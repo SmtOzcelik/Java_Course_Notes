@@ -32,6 +32,7 @@ public class C02_CollectionsDataTuru {
         // islem yapmak zorlasir
 
         list1.set(0,(Integer)list1.get(0)+5);
+
         System.out.println(list1);//[10, s, true, Ali]
 
         list1.set(3,list1.get(3)+"Can");
