@@ -9,6 +9,7 @@ public class C01_Set {
         // halini array e atayan bir kod yaziniz
 
         int[]arr={4,5,3,6,8,5,1,9,0,4,2,5,7,10,1,2,5,7,6};
+
         //array i set e aktaralim ki tekrarsız ozelligini kullanalim
         Set<Integer>tekrarsizSet=new HashSet<>();
 
