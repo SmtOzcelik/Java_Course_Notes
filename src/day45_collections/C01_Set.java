@@ -23,6 +23,7 @@ public class C01_Set {
         int[] tekrarsizArr=new int[tekrarsizSet.size()];
 
         int i=0;
+
         for (Integer each:tekrarsizSet
              ) {
             tekrarsizArr[i]=each;
