@@ -7,6 +7,7 @@ import java.util.Set;
 
 public class C02_CollectionsDataTuru {
     public static void main(String[] args) {
+
         /*
         Collections < dataTuru > nu object secmeniz durumunda Collection a
         farkli data turlerinden objeler koymaniza izin verir
