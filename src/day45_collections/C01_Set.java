@@ -31,6 +31,7 @@ public class C01_Set {
         }
 
         arr=tekrarsizArr;
+
         System.out.println("Bizim array in son hali : "+Arrays.toString(arr));
 
     }
