@@ -27,6 +27,7 @@ public class C02_CollectionsDataTuru {
         list1.add(true);
         list1.add("Ali");
         System.out.println(list1);//[5, s, true, Ali]
+
         // Collections ozelliginden Object yazdik hepsini attık
         // islem yapmak zorlasir
 
