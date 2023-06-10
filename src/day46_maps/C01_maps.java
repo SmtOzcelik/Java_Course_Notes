@@ -27,6 +27,7 @@ public class C01_maps {
         Collection<String>tumValueColl=sinifList.values();
 
         int sira=1; // 1-,2- yapabilmek icin koyduk
+
         String[] eachArr;// degerini asagida atayalim
 
         for (String each:tumValueColl
