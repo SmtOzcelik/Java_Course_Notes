@@ -4,6 +4,7 @@ import java.util.*;
 
 public class C01_maps {
     public static void main(String[] args) {
+
         Map<Integer,String>sinifList=new HashMap<>();
 
         sinifList.put(101,"Ali, Can, JDev");
