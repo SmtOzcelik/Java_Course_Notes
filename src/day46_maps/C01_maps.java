@@ -13,7 +13,7 @@ public class C01_maps {
         sinifList.put(104,"Derya, Deniz, Tester");
 
         System.out.println(sinifList);
-//{101=Ali, Can, JDev, 102=Enes, Cem, Tester, 103=Taha, Emre, Java, 104=Derya, Deniz, Tester}
+        //{101=Ali, Can, JDev, 102=Enes, Cem, Tester, 103=Taha, Emre, Java, 104=Derya, Deniz, Tester}
 
         System.out.println(sinifList.keySet());//[101, 102, 103, 104]
         System.out.println(sinifList.values());
