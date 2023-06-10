@@ -9,6 +9,7 @@ public class C02_MapsMethodIle {
         Map<Integer,String> ogrenciMap=ReusableMethods.mapOlustur();
         //tum verileri teker teker girmek yerine yan class da
         // olusturdugumuz map i cagirdik  atama yaptik ki kullanabilelim
+
         System.out.println(ogrenciMap);
 
         // value lari sira numarali olarak yazdirin
