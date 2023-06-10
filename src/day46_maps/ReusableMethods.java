@@ -52,6 +52,7 @@ public class ReusableMethods {
         //volue de ki brans i almak icin volue leri Collection a atalim
         Collection<String>valueCollection=sinifListMap.values();
         // bu value lerin icin de isim soyisim brans birlikte oldugu icin arr split ile parcala
+
         String valueArr[];
         String brans;
         Integer bransdakiOgrenciSayisi;
