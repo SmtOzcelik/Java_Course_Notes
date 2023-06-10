@@ -4,6 +4,7 @@ import java.util.*;
 
 public class ReusableMethods {
     public static Map<Integer,String> mapOlustur(){
+
         Map<Integer,String>sinifMap=new HashMap<>();
 
         sinifMap.put(101,"Ali, Can, JDev");
