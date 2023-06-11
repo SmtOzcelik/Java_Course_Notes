@@ -7,6 +7,7 @@ import java.util.Set;
 
 public class GenelCozum {
     public static void main(String[] args) {
+
         Map<Integer,String> sinifMap=new HashMap<>();
 
         sinifMap.put(101,"Ali, Can, JDev");
