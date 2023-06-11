@@ -7,6 +7,7 @@ import java.util.Set;
 
 public class C04_Entry {
     public static void main(String[] args) {
+
         /*
         Java Entry<K,V> map icinde bulunan her bir kaydi K=V seklinde tutar
         Dolayısıyla herhangi bir Entry e ulastigimizda hem key e hem de value ya
