@@ -7,6 +7,7 @@ import java.util.Set;
 
 public class C05_EntryUpdate {
     public static void main(String[] args) {
+
         // soyisim Can olanlarin bransini DataScience yapalim
 
         Map<Integer,String>sinifListMap= ReusableMethods.mapOlustur();
