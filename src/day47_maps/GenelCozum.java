@@ -79,6 +79,7 @@ public class GenelCozum {
         }
 
         //Soru4: Map in tum elemanlarinda varsa Tester kurs ismini QA olarak degistirelim
+
         String yenientrey;
         for (Map.Entry<Integer,String>entry:entrySeti
              ) {
