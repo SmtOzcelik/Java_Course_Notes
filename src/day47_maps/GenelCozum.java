@@ -91,6 +91,7 @@ public class GenelCozum {
         System.out.println(sinifMap);
 
         //Soru5: soyisim Can olanlarin bransini DataScience yapalim
+
         String entryArr[];
         String entryValue;
         for (Map.Entry<Integer,String> entry:entrySeti
