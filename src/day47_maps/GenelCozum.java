@@ -56,6 +56,7 @@ public class GenelCozum {
         //guncelleme icin siniflistMap.put(101,Ali, Can, JavaDeveloper)
 
         // bunu yapabilmek icin herbir key e ve ona ait value ya ihtiyacim var
+
         Set<Integer> keySeti=sinifMap.keySet();
         String yenivalue;
         for (Integer each:keySeti
