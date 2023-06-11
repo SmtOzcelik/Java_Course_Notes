@@ -6,6 +6,7 @@ import java.util.Map;
 
 public class C02_TekrarSayisiBulma {
     public static void main(String[] args) {
+
         // verilen bir string deki kullanilan harfleri ve kullanilan harflerin tekrar sayisini
         // H=20 seklinde yazdirin
 
