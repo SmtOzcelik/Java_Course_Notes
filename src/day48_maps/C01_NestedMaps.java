@@ -6,6 +6,7 @@ import java.util.Set;
 
 public class C01_NestedMaps {
     public static void main(String[] args) {
+
           /*
         Eger bir elementle ilgili tutacagimiz bilgiler coksa bu defa ic ice map
         kullanmayi tercih edebiliriz.
