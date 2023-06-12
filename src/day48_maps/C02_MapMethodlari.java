@@ -17,6 +17,7 @@ public class C02_MapMethodlari {
         sinifListMap=ReusableMethods.mapOlustur();
         System.out.println(sinifListMap.getOrDefault(104, "Aradiginiz key yok"));
         //104 var Deniz, Deniz, Devops getirdi
+
         System.out.println(sinifListMap.getOrDefault(110, "Aradiginiz key yok"));
         //Aradiginiz key yok yazdirir
 
