@@ -42,6 +42,7 @@ public class C01_NestedMaps {
         // mapleri alt alta yazdiralim entrySet ile
 
         Set<Map.Entry<Integer,Map<String,String>>> ogrenciEntrySeti=ogrencinestedMap.entrySet();
+
         for (Map.Entry each:ogrenciEntrySeti
              ) {
             System.out.println(each);
