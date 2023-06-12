@@ -28,8 +28,5 @@ public class C03_Compute {
 
         System.out.println(harfMapi);//{A=13, B=1, C=2, D=16, E=9, F=30}
 
-
-
-
     }
 }
